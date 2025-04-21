@@ -1,0 +1,11 @@
+database:
+  url: "jdbc:postgresql://localhost:5432/development"
+  user: "development"
+  password: "password"
+
+facebook:
+  access_token: "facebook_access_token"
+  verify_token: "facebook_verify_token"
+  webhook_port: 8080
+  page_id: "page_id"
+  bot_id: "bot_id"

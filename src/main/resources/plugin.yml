@@ -1,0 +1,3 @@
+name: nautchkafe-fbreward
+version: 0.1-SNAPSHOT
+main: dev.nautchkafe.facebook.reward.FacebookRewardPlugin
